@@ -10,7 +10,8 @@ O aplicativo "Trilhas do Conhecimento" é uma plataforma educacional destinada a
 - Cada subpágina conterá:
   - Título do ano (ex: "1º Ano").
   - Lista de matérias pertinentes ao respectivo ano.
-  - Para cada matéria, um link para um vídeo educativo relacionado hospedado no YouTube.
+ - **Lista de Vídeos Educativos e Opção de Concluir:** Cada subpágina inclui uma lista de matérias pertinentes ao respectivo ano, com links para vídeos educativos relevantes hospedados no YouTube. Os usuários têm a opção de marcar os vídeos como concluídos após assisti-los, facilitando o acompanhamento do progresso de estudo.
+
 
 ## Requisitos Técnicos
 - Desenvolvimento em HTML, CSS e JavaScript para plataforma web.
